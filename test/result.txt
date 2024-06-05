@@ -1,0 +1,161 @@
+BM25PLUS_model                           word2vec_model                           combined_result                         
+1: 儒家:
+None                                     E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+
+2: 神社:
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+
+3: 曹操:
+E:\IRpy\IR-system\archives\赤壁之戰.pdf      E:\IRpy\IR-system\archives\赤壁之戰.pdf      E:\IRpy\IR-system\archives\赤壁之戰.pdf     
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\论语.pdf        None                                    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+
+4: 东风谷早苗:
+E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+
+5: 八意永琳:
+E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\论语.pdf        None                                    
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\赤壁之戰.pdf      None                                    
+
+6: 雾雨魔理沙:
+E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+
+7: 孔子:
+None                                     E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+
+8: 东方:
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+None                                     E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+
+9: 银河铁道:
+E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+
+10: 妖怪之山:
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+
+11: 动画:
+E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\秦时明月.pdf     
+E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+E:\IRpy\IR-system\archives\原神.pdf        E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+
+12: 火烧赤壁:
+None                                     E:\IRpy\IR-system\archives\赤壁之戰.pdf      E:\IRpy\IR-system\archives\赤壁之戰.pdf     
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\西游记.pdf      
+
+13: 梁山好汉起义造反:
+E:\IRpy\IR-system\archives\水浒传.pdf       E:\IRpy\IR-system\archives\赤壁之戰.pdf      E:\IRpy\IR-system\archives\水浒传.pdf      
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\赤壁之戰.pdf     
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\论语.pdf        None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+
+14: 温故而知新，可以为师矣。:
+E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\论语.pdf       
+E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\赤壁之戰.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+
+15: 凡人主之国小而家大，权轻而臣重者，可亡也。:
+E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\论语.pdf        None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\赤壁之戰.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+
+16: 寻找自己失散的唯一血亲。:
+E:\IRpy\IR-system\archives\原神.pdf        E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\原神.pdf       
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\论语.pdf        None                                    
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+
+17: 师徒四人到西天取经。:
+E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\论语.pdf        E:\IRpy\IR-system\archives\西游记.pdf      
+None                                     E:\IRpy\IR-system\archives\西游记.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\赤壁之戰.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\水浒传.pdf       None                                    
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    None                                    
+
+18: 有关列车在银河中穿梭的童话:
+E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     None                                    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      None                                    
+None                                     E:\IRpy\IR-system\archives\原神.pdf        None                                    
+
+19: 符卡弹幕射击游戏:
+None                                     E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+None                                     E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\原神.pdf        E:\IRpy\IR-system\archives\原神.pdf       
+
+20: 隐藏起了真正的月亮，导致夜晚无法停止:
+E:\IRpy\IR-system\archives\西游记.pdf       E:\IRpy\IR-system\archives\東方永夜抄.pdf     E:\IRpy\IR-system\archives\東方永夜抄.pdf    
+E:\IRpy\IR-system\archives\原神.pdf        E:\IRpy\IR-system\archives\東方風神錄.pdf     E:\IRpy\IR-system\archives\東方風神錄.pdf    
+E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf    E:\IRpy\IR-system\archives\銀河鐵道之夜.pdf   
+None                                     E:\IRpy\IR-system\archives\秦时明月.pdf      E:\IRpy\IR-system\archives\秦时明月.pdf     
+None                                     E:\IRpy\IR-system\archives\韩非子.pdf       E:\IRpy\IR-system\archives\韩非子.pdf      
+None                                     E:\IRpy\IR-system\archives\原神.pdf        E:\IRpy\IR-system\archives\原神.pdf       
+
